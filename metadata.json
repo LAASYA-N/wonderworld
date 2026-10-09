@@ -1,0 +1,6 @@
+{
+  "name": "WonderWorld - Kids Discovery Adventure",
+  "description": "Interactive kid-safe science discovery realm with interactive water cycle experiments, botanical labs, and Pip the red panda guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
